@@ -9,7 +9,7 @@ const projects = [
     status: "Current Work",
     description:
       "A modular business platform for managing operational records, transactions, reports, and role-based workflows in one centralized system.", // TODO: Replace with actual ERP details and approved screenshots.
-    tools: [".NET", "C#", "MSSQL", "Design Patterns", "API Integration"],
+    tools: [".NET", "VB.NET", "C#","MSSQL", "Design Patterns", "API Integration"],
     demoUrl: "https://example.com/erp-demo", // TODO: Replace with the real demo video URL.
     githubUrl: "https://github.com/example/enterprise-resource-planning", // TODO: Replace with the real GitHub repository URL.
   },
