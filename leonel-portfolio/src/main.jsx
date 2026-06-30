@@ -8,7 +8,7 @@ import "./styles/global.css";
 import "./styles/animations.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
-  <React.StrictMode>
+  // <React.StrictMode>
     <ChakraProvider value={defaultSystem}>
       <ColorModeProvider>
         <BrowserRouter>
@@ -16,5 +16,5 @@ ReactDOM.createRoot(document.getElementById("root")).render(
         </BrowserRouter>
       </ColorModeProvider>
     </ChakraProvider>
-  </React.StrictMode>,
+  // </React.StrictMode>,
 );
